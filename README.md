@@ -1,8 +1,9 @@
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/diardo/">Diardo Marendi Krista</a>!</h1>
+
 <p align="center">
   <img src="https://i.imgur.com/bmlzt42.gif">
 </p>
 
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/diardo/">Diardo Marendi Krista</a>!</h1>
 <h1 align="center">🦊 Welcome to my GitHub profile~ ^_^ 🦊</h1>
 
   ## 👨 About Me
@@ -16,6 +17,22 @@
     Experienced in Aviation, Passenger/Customer Service and Administration since 2011, makes me familiar with various work environments & colleagues, both domestic and abroad colleagues. and also make me accustomed to adapting to any environments.
   </p>
 </div>
+
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/diardomarendikrista">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=diardomarendikrista&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/diardomarendikrista">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diardomarendikrista&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 
   ## 💼 Skills
 
