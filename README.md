@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./banner.png" height="auto" width="100%" style="border-radius:50%">
+  <img src="./banner.png" height="auto" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/diardo/">Diardo Marendi Krista</a>!</h1>
@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/diardomarendikrista">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diardomarendikrista&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diardomarendikrista&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
