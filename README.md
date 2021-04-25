@@ -6,22 +6,17 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/diardo/">Diardo Marendi Krista</a>!</h1>
 
   ## 👨 About Me
-  
-<div>
-  <p>
-    A person who passionate about software development, technology, and general knowledge.
-    Spend almost all of my time in front of my computer because I love to browsing and explore.
-  </p>
-  <p>
-    Experienced in Aviation, Passenger/Customer Service and Administration since 2011, makes me familiar with various work environments & colleagues, both domestic and abroad colleagues. and also make me accustomed to adapting to any environments.
-  </p>
-</div>
 
-<br>
+<p>
+  A person who passionate about software development, technology, and general knowledge.
+  Spend almost all of my time in front of my computer because I love to browsing and explore.
+</p>
+<p>
+  Experienced in Aviation, Passenger/Customer Service and Administration since 2011, makes me familiar with various work environments & colleagues, both domestic and abroad colleagues. and also make me accustomed to adapting to any environments.
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
 
 <a href="https://github.com/diardomarendikrista">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=diardomarendikrista&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
