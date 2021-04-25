@@ -3,7 +3,7 @@
   <img src="./banner.png" height="auto" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/diardo/">Diardo Marendi Krista</a>!</h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/diardo/" target="_BLANK">Diardo Marendi Krista</a>!</h1>
 
   ## 👨 About Me
 
@@ -18,11 +18,11 @@
 ## &#x1f4c8; GitHub Stats
 
 
-<a href="https://github.com/diardomarendikrista">
+<a href="https://github.com/diardomarendikrista" target="_BLANK">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=diardomarendikrista&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/diardomarendikrista">
+<a href="https://github.com/diardomarendikrista" target="_BLANK">
   <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diardomarendikrista&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -51,10 +51,10 @@
 
  ##    
 <p align="center">
-  <strong><a href="http://diardojr.000webhostapp.com/">Official Website</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/diardo/">LinkedIn</a></strong> |
-  <strong><a href="https://www.instagram.com/diardomarendikrista/">Instagram</a></strong> |
-  <strong><a href="https://www.facebook.com/diardo.krista/">Facebook</a></strong>
+  <strong><a href="http://diardojr.000webhostapp.com/" target="_BLANK">Official Website</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/diardo/" target="_BLANK">LinkedIn</a></strong> |
+  <strong><a href="https://www.instagram.com/diardomarendikrista/" target="_BLANK">Instagram</a></strong> |
+  <strong><a href="https://www.facebook.com/diardo.krista/" target="_BLANK">Facebook</a></strong>
 </p>
 
 <p align="center">❤ I'm currently seeking an oppurtunity on Software Developer.</p>
