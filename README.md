@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/bmlzt42.gif" width="100%">
+  <img src="./banner.png" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/diardo/">Diardo Marendi Krista</a>!</h1>
