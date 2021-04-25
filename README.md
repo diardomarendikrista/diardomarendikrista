@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="./banner.png" height="auto" width="100%" style="border-radius:50%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/diardo/">Diardo Marendi Krista</a>!</h1>
