@@ -1,10 +1,9 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/diardo/">Diardo Marendi Krista</a>!</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/bmlzt42.gif">
 </p>
 
-<h1 align="center">🦊 Welcome to my GitHub profile~ ^_^ 🦊</h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/diardo/">Diardo Marendi Krista</a>!</h1>
 
   ## 👨 About Me
   
@@ -60,7 +59,7 @@
   <strong><a href="http://diardojr.000webhostapp.com/">Official Website</a></strong> |
   <strong><a href="https://www.linkedin.com/in/diardo/">LinkedIn</a></strong> |
   <strong><a href="https://www.instagram.com/diardomarendikrista/">Instagram</a></strong> |
-  <strong><a href="https://www.facebook.com/diardo.krista/">Facebook</a></strong> |
+  <strong><a href="https://www.facebook.com/diardo.krista/">Facebook</a></strong>
 </p>
 
 <p align="center">❤ I'm currently seeking an oppurtunity on Software Developer.</p>
