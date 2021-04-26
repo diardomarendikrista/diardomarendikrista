@@ -51,7 +51,6 @@
 
  ##    
 <p align="center">
-  <strong><a href="http://diardojr.000webhostapp.com/" target="_BLANK">Official Website</a></strong> |
   <strong><a href="https://www.linkedin.com/in/diardo/" target="_BLANK">LinkedIn</a></strong> |
   <strong><a href="https://www.instagram.com/diardomarendikrista/" target="_BLANK">Instagram</a></strong> |
   <strong><a href="https://www.facebook.com/diardo.krista/" target="_BLANK">Facebook</a></strong>
