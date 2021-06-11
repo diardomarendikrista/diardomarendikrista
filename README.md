@@ -56,7 +56,7 @@
   <strong><a href="https://www.facebook.com/diardo.krista/" target="_BLANK">Facebook</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working on Frontend Developer,<br />and building Game Server (ARK: Survival, Ragnarok Online & Minecraft Windows) for fun</p>
+<p align="center">❤ I'm currently working on Frontend Developer,<br />and building Game Server (ARK: Survival, Ragnarok Online & Minecraft Windows) for fun ❤</p>
 <!--
 **diardomarendikrista/diardomarendikrista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
