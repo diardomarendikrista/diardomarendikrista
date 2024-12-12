@@ -56,7 +56,7 @@ I active on AWS CodeCommit, so my git not so updated
   <strong><a href="https://www.facebook.com/diardo.krista/" target="_BLANK">Facebook</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working as Frontend Developer, and building Game Server (ARK: Survival, Ragnarok Online & Minecraft) for fun</p>
+<p align="center">❤ I'm currently working as Frontend Developer, 3D Developer using Three JS, and building Game Server (ARK: Survival, Ragnarok Online & Minecraft) for fun</p>
 <!--
 **diardomarendikrista/diardomarendikrista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
